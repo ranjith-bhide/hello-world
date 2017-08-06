@@ -1,2 +1,3 @@
 # hello-world
-sample repo
+sample repository
+Edited readme file in a non-master branch
